@@ -2,7 +2,6 @@
 ## Date : 21.05.2026
 
 ## AIM: 
-
 To create a 3Dmodel from the given isometric drawing using fusion 360 tool. 
 
 ## REQUIREMENTS:
